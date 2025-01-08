@@ -1,3 +1,6 @@
 [submodule "vultiserver-plugin"]
 	path = vultiserver-plugin
 	url = git@github.com:LimeChain/vultiserver-plugin.git
+[submodule "vultisig-txqueue"]
+	path = vultisig-txqueue
+	url = git@github.com:LimeChain/vultisig-txqueue.git
